@@ -1,21 +1,25 @@
-![EASYZOOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyzoom&show_icons=true&theme=radical)
-
 ## Hi Friends! 👋<br/>
 
-### 这里是EASYZOOM<br/><br/>
+### 这里是EASYZOOM<br/>
+
+[![Github Badge](https://img.shields.io/badge/-easyzoom-grey?style=flat&logo=github&logoColor=white&link=https://github.com/easyzoom/)](https://www.github.com/easyzoom/)
 
 ### 这里会分享一些自己的学习心得
 
 [1.NXP IMX8QM](https://github.com/easyzoom/IMX8QM) - NXP IMX8QM SDK<br/>
 
-### Top Languages
+### Github Stats
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=easyzoom alt=easyzoom /> </p>
+
+![EASYZOOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyzoom&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easyzoom&langs_count=8&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 ### 联系方式(Contact Information)
 
-E-mail: 1054516930@qq.com(China)  
-E-mail: easyzoom.wang@gmail.com(Other Countries)  
+[![Gmail Badge](https://img.shields.io/badge/-1054516930@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1054516930@qq.com)](mailto:1054516930@qq.com)<br/>
+[![Gmail Badge](https://img.shields.io/badge/-easyzoom.wang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:easyzoom.wang@gmail.com)](mailto:easyzoom.wang@gmail.com)<br/>
 Tencent QQ: 1054516930
 <!--
 **easyzoom/easyzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
