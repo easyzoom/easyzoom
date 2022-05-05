@@ -20,7 +20,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-1054516930@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:1054516930@qq.com)](mailto:1054516930@qq.com)<br/>
 [![Gmail Badge](https://img.shields.io/badge/-easyzoom.wang@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:easyzoom.wang@gmail.com)](mailto:easyzoom.wang@gmail.com)<br/>
-Tencent QQ: 1054516930
 <!--
 **easyzoom/easyzoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
