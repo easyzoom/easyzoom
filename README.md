@@ -4,10 +4,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-easyzoom-grey?style=flat&logo=github&logoColor=white&link=https://github.com/easyzoom/)](https://www.github.com/easyzoom/)
 
-### 这里会分享一些自己的学习心得
-
-[1.NXP IMX8QM](https://github.com/easyzoom/IMX8QM) - NXP IMX8QM SDK<br/>
-
 ### Github Stats
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=easyzoom alt=easyzoom /> </p>
